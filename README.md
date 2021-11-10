@@ -1,8 +1,9 @@
-### Hello there! <img src="https://raw.githubusercontent.com/BK-93/BK-93/master/wave.gif" width="30px">
+## Hello there! <img src="https://raw.githubusercontent.com/BK-93/BK-93/master/wave.gif" width="30px">
 
 My name is Brian Kleijn and I'm a software developer/engineer from the Netherlands. 
 
 <a href="https://www.linkedin.com/in/brian-kleijn-356044b7/"><img src="https://raw.githubusercontent.com/BK-93/BK-93/master/LinkedIn.png" width="30px"></img></a>
+<a href="https://www.briankleijn.com/">:information_source:</a>
 
 
 ## 🔧 Technologies & Tools
