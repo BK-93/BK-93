@@ -20,17 +20,17 @@ My LinkedIn: <a href="https://www.linkedin.com/in/brian-kleijn-356044b7/"><svg r
 ![](https://img.shields.io/badge/-HTML-e34f26?logo=HTML5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-CSS-264de4?logo=CSS3&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-SCSS/Sass-CC6699?logo=Sass&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=Tailwind CSS&logoColor=white&style=flat) - 
+![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat) - 
 ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat) - 
 ![](https://img.shields.io/badge/-C#-239120?logo=C Sharp&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=Azure DevOps&logoColor=white&style=flat) - 
+![](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=AzureDevOps&logoColor=white&style=flat) - 
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 Tools
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=Microsoft SQL Server&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=MicrosoftSQLServer&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
