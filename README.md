@@ -12,20 +12,20 @@ My LinkedIn: <a href="https://www.linkedin.com/in/brian-kleijn-356044b7/"><svg r
 
 #### Code
 ![](https://img.shields.io/badge/-Python-ffde57?logo=python&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) | 
+![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Vue-42b883?logo=vue.js&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat) | 
+![](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-HTML-e34f26?logo=HTML5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-CSS-264de4?logo=CSS3&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-SCSS/Sass-CC6699?logo=Sass&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat) | 
+![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat) | 
-![](https://img.shields.io/badge/-C#-239120?logo=CSharp&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-C%23-239120?logo=Cshapr&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=AzureDevOps&logoColor=white&style=flat) | 
+![](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=AzureDevOps&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 #### Tools
