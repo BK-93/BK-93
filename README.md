@@ -23,7 +23,7 @@ My LinkedIn: <a href="https://www.linkedin.com/in/brian-kleijn-356044b7/"><svg r
 ![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-C%23-239120?logo=Cshapr&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-C%23-239120?logo=Csharp&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=AzureDevOps&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
