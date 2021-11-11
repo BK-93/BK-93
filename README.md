@@ -11,7 +11,6 @@ My name is Brian Kleijn and I'm a software developer/engineer from the Netherlan
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/-OS_Windows-0078d7?logo=windows&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Editor_JetBrains_IDE-303033?logo=jetbrains&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-GIT-F05032?logo=git&logoColor=white&style=flat)
 
 #### Code
 ![](https://img.shields.io/badge/-Python-ffde57?logo=python&logoColor=white&style=flat)
@@ -31,6 +30,7 @@ My name is Brian Kleijn and I'm a software developer/engineer from the Netherlan
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 #### Tools
+![](https://img.shields.io/badge/-GIT-F05032?logo=git&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=MicrosoftSQLServer&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat)
