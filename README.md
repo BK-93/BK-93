@@ -28,13 +28,13 @@ My name is Brian Kleijn and I'm a software developer/engineer from the Netherlan
 ![](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-C%23-239120?logo=Csharp&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=AzureDevOps&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 #### Tools
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=MicrosoftSQLServer&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=AzureDevOps&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 
