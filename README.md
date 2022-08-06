@@ -14,7 +14,8 @@ My name is Brian Kleijn and I'm a software developer/engineer from the Netherlan
 
 #### Code
 ![](https://img.shields.io/badge/-Python-ffde57?logo=python&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-C%23-239120?logo=Csharp&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Vue-42b883?logo=vue.js&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
@@ -23,10 +24,9 @@ My name is Brian Kleijn and I'm a software developer/engineer from the Netherlan
 ![](https://img.shields.io/badge/-CSS-264de4?logo=CSS3&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-SCSS/Sass-CC6699?logo=Sass&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-C%23-239120?logo=Csharp&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 #### Tools
